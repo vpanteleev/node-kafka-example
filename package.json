@@ -1,0 +1,29 @@
+{
+  "name": "node-kafka-example",
+  "version": "1.0.0",
+  "description": "Node.js Kafka example of usage.",
+  "main": "consumer.js",
+  "dependencies": {
+    "kafka-node": "^1.5.0",
+    "optimist": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vpanteleev/node-kafka-example.git"
+  },
+  "keywords": [
+    "kafka",
+    "node",
+    "js"
+  ],
+  "author": "v.panteleev@paralect.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpanteleev/node-kafka-example/issues"
+  },
+  "homepage": "https://github.com/vpanteleev/node-kafka-example#readme"
+}
